@@ -13,7 +13,7 @@ class Address extends \Faker\Provider\Address
         'Adisumarmo', 'Agus Salim', 'Ahmad Dahlan', 'Antapani Lama', 'Arifin',
         'Asia Afrika', 'Astana Anyar', 'B.Agam 1', 'B.Agam Dlm', 'BKR',
         'Baabur Royan', 'Baan', 'Babadak', 'Babadan', 'Babah',
-        'Babakan', 'Bacang', 'Badak', 'Bagas Pati', 'Bagis Utama',
+        'Babakan', 'Bacang', 'Badak', 'Danang Pati', 'Bagis Utama',
         'Bagonwoto ', 'Bah Jaya', 'Baha', 'Bahagia', 'Bahagia ',
         'Baiduri', 'Baik', 'Baing', 'Baja', 'Baja Raya',
         'Bak Air', 'Bak Mandi', 'Bakaru', 'Bakau', 'Bakau Griya Utama',

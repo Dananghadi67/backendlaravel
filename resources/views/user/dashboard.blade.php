@@ -27,7 +27,7 @@
             <div class="card card-primary card-outline">
                 <div class="card-body box-profile">
                     <div class="text-center">
-                        <img class="profile-user-img img-fluid img-circle mb-2" src="profil/{{Auth::user()->foto}}"
+                        <img class="profile-user-img img-fluid img-circle mb-2" src="/profil/{{Auth::user()->foto}}"
                             alt="User profile picture">
                         <form action="/dashboard30/update-foto-profil30" method="POST" class="form-horizontal"
                             enctype="multipart/form-data">
@@ -59,7 +59,7 @@
                             <b>Umur</b> <a class="float-right">{{$item->umur}}</a>
                         </li>
                         <li class="list-group-item">
-                            <b>Foto KTP</b> <a class="float-right"><img width="100%" src="ktp/{{$item->foto_ktp}}"
+                            <b>Foto KTP</b> <a class="float-right"><img width="100%" src="/ktp/{{$item->foto_ktp}}"
                                     alt=""></a>
                         </li>
                         <li class="list-group-item">

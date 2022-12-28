@@ -226,6 +226,7 @@
                             Email : admin@gmail.com <br>
                             Password : 12345678
                         </span>
+                    </div>
                 </div>
             </div>
         </div>
